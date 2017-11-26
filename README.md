@@ -129,3 +129,56 @@ Elegir una web de tu preferencia y explicar qué partes conforman el UX y qué p
 3. Diseño de los botones.
 
 
+## Figura N° 5:
+
+![Figura -5](assets/images/figura-5.jpg)
+
+### UX  (Son las partes delineadas con color rojo)
+
+1. Posibilidad de subir videos. 
+
+2. Poder filtrar la privacidad de los videos que subo.
+
+3. Tener la opción de importar videos de google y de transmitir en directo.
+
+4. Se mantiene en cada página la navegación principal; teniendo asi una navegación coherente.
+
+5. Texto de ayuda y sugerencias de ayuda al usuario.
+
+### UI  (Son las partes delineadas con color negro)
+
+1. Uso de los colores de marca.
+
+2. Diseño de de íconos fácilmente identificables.
+
+
+## Figura N° 6:
+
+![Figura -6](assets/images/figura-6.jpg)
+
+### UX  (Son las partes delineadas con color rojo)
+
+1. Opción de agregar comentarios a los videos.
+
+2. Opción de calificar los comentarios y responder a los mismos.
+
+3. Poder suscribirse al canal del video reproducido.
+
+4. Opción de ordenar los comentarios por fecha o importancia.
+
+
+### UX  (Son las partes delineadas con color negro)
+
+1. Ordenamiento y maquetación de la presentación de los comentarios.
+
+2. Uso de una tipografía legible.
+
+3. Uso de los colores de marca.
+
+4. Uso adecuado al implementar los íconos de calficación.
+
+5. Resaltar con los colores de marca, la opción de suscripción y el número de suscripciones obtenidas. 
+
+
+
+
