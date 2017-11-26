@@ -75,3 +75,33 @@ Elegir una web de tu preferencia y explicar qué partes conforman el UX y qué p
 6. Diseño de presentación del usuario que subió el video y organización de la información.
 
 7. Se resalta con el color rojo de la marca, el botón de activado.
+
+
+## Figura N° 3:
+
+![Figura -3](assets/images/figura-3.jpg)
+
+### UX  (Son las partes delineadas con color rojo)
+
+1. Posibilidad de poner una portada al perfil del usuario.
+
+2. Posibildiad de poner una imagen de perfil del usuario.
+
+3. Opciones de personalización del perfil.
+
+4. Botón de acceso directo a los videos subidos.
+
+5. Recomendación de canales con la misma temática.
+
+### UI (Son las partes delineadas con color negro)
+
+1. Ordenamiento y forma del perfil del usuario.
+
+2. Uso de canales de marca.
+
+3. Menu desplegable del canal.
+
+4. Diseño de los botones del menú.
+
+5. Se resalta la página en la que el usuario se encuentra.
+
