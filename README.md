@@ -105,3 +105,27 @@ Elegir una web de tu preferencia y explicar qué partes conforman el UX y qué p
 
 5. Se resalta la página en la que el usuario se encuentra.
 
+
+## Figura N° 4:
+
+![Figura -4](assets/images/figura-4.jpg)
+
+### UX  (Son las partes delineadas con color rojo)
+
+1. Se resalta la opción del menú al que el usuario ha accedido.
+
+2. Visualización de los videos subidos.
+
+3. Poder tener un resumen gráfico de los likes obtenidos, número de visualziaciones y comentarios. 
+
+4. Opción de filtrar los videos subidos. 
+
+### UI (Son las partes delineadas con color negro)
+
+1. Ordenamiento y forma de las portadas de los videos subios y la interacción obtenida.
+
+2. Uso de los colores de marca.
+
+3. Diseño de los botones.
+
+
